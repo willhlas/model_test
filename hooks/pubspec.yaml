@@ -1,0 +1,10 @@
+name: model_test_brick_hooks
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  analyzer: ^6.0.0
+  mason: ">=0.1.0-dev.50 <0.1.0"
+  model_test_generator:
+    path: ../../../model_test_generator

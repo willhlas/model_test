@@ -1,0 +1,17 @@
+name: model_test_brick
+description: A brick to generate a test file for a model.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.50 <0.1.0"
+
+vars:
+  path:
+    type: string
+    description: Path to the file.
+    prompt: What's the path to the file?
+  className:
+    type: string
+    description: Name of the class.
+    prompt: What's the name of the class?
