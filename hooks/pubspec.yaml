@@ -1,4 +1,4 @@
-name: model_test_brick_hooks
+name: model_test_hooks
 
 environment:
   sdk: ">=3.0.5 <4.0.0"

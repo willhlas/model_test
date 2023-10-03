@@ -1,4 +1,4 @@
-name: model_test_brick
+name: model_test
 description: A brick to generate a test file for a model.
 
 version: 0.1.0+1

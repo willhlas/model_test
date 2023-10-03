@@ -1,1 +1,1 @@
-# model_test_brick
+# model_test
