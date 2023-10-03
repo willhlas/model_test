@@ -7,4 +7,6 @@ dependencies:
   analyzer: ^6.0.0
   mason: ">=0.1.0-dev.50 <0.1.0"
   model_test_generator:
-    path: ../../../model_test_generator
+    git:
+      url: https://github.com/willhlas/model_test_generator.git
+      ref: 710aed3
