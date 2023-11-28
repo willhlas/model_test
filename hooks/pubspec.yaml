@@ -1,11 +1,11 @@
 name: model_test_hooks
 
 environment:
-  sdk: ">=3.0.5 <4.0.0"
+  sdk: ">=3.2.1 <4.0.0"
 
 dependencies:
-  analyzer: ^6.0.0
-  mason: ">=0.1.0-dev.50 <0.1.0"
+  analyzer: ^6.3.0
+  mason: ^0.1.0-dev.51
   model_test_generator:
     git:
       url: https://github.com/willhlas/model_test_generator.git
