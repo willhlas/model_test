@@ -1,10 +1,10 @@
 name: model_test
 description: A brick to generate a test file for a model.
 
-version: 0.1.0+1
+version: 0.1.0+2
 
 environment:
-  mason: ">=0.1.0-dev.50 <0.1.0"
+  mason: ^0.1.0-dev.51
 
 vars:
   path:
